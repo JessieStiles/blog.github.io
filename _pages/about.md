@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in mechanical engineering, small scale manufacturing, robotics, 3D-printing, laser and optical technologies, mycology, gardening, and more. I will continue to update my projects and blog page with current and upcoming projects and general interests. 
+I am interested in mechanical engineering, small scale manufacturing, robotics, mycology, gardening, and more. I will continue to update my projects and blog page with current and upcoming projects and general interests. 
+
+Affiliations
+======
 
 News and Updates
 ======
