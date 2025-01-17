@@ -11,6 +11,8 @@ I am interested in mechanical engineering, small scale manufacturing, robotics, 
 
 Affiliations
 ======
+Lead organizer at [The Cleo Baiey Experiment](https://www.cleobailey.org/)
+Presenter at [Open Sauce 2024](https://opensauce.com/)
 
 News and Updates
 ======
